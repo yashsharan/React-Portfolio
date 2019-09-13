@@ -1,44 +1,40 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "imagebaseurl":"https://yashsharan.github.io/",
+    "name": "Yash Sharan",
+    "role": "Full stack developer and Data Science Enthusiast",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I am interested in Deep learning using Neural networks and like to learn about new technologies.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://in.linkedin.com/in/yash-sharan-ba1aa6b0",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/yashsharan",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
+        
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am currently a final year student at BITS Pilani K K Birla Goa Campus and pursuing my B.Tech in Electronics and Instrumentation and Msc. in Chemistry. I learned Full stack development during my semester long internship. I also have great interest towards deep learning using Neural networks. ",
     "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "website":"https://yashsharan.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
+        "UniversityName":"BITS Pilani KK Birla Goa Campus",
+        "specialization":"BE(Hons) Electronics and Instrumentaion",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"BITS Pilani KK Birla Goa Campus",
+        "specialization":"MSc. Chemistry",
+        "MonthOfPassing":"Aug",
+        "YearOfPassing":"2020",
+        
       }
     ],
     "work":[
